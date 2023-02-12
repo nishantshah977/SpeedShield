@@ -1,8 +1,8 @@
-# Speedometer
+# SpeedShield 
 A Wordpress Plugin to speed up website. Speed up your website with this powerful and easy-to-use WordPress plugin.
 
 # Description
-Speedometer is a feature-packed plugin that optimizes your website's performance without requiring any user interface. The plugin utilizes advanced algorithms to compress images and videos, as well as cache resources to improve page load times. With just a few clicks, you can quickly and easily optimize your website to ensure a fast and seamless browsing experience for your visitors.
+SpeedShield is a feature-packed plugin that optimizes your website's performance without requiring any user interface. The plugin utilizes advanced algorithms to compress images and videos, as well as cache resources to improve page load times. With just a few clicks, you can quickly and easily optimize your website to ensure a fast and seamless browsing experience for your visitors.
 
 Whether you're a website owner, developer, or marketer, Speedometer makes it easy to improve the speed of your website and enhance your online presence. Try Speedometer today and see the results for yourself!
 
@@ -12,6 +12,10 @@ Whether you're a website owner, developer, or marketer, Speedometer makes it eas
 * Caches resources to reduce server load and improve performance
 * Easy to install and use, without any user interface
 * Works with all types of websites and themes
+* XSS Protection 
+* Bad Bots Blocked 
+* Optimization 
+* Makes hidden file invisible to users.
 
 # Installation
 
