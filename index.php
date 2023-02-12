@@ -115,32 +115,6 @@ Header edit Set-Cookie ^(.*)$ $1;HttpOnly;Secure
   SecDebugLogLevel 3
 </IfModule>
 
-# Block access to hidden files
-
-<Files .htaccess>
-Order Allow,Deny
-Deny from All
-</Files>
-<Files .htpasswd>
-Order Allow,Deny
-Deny from All
-</Files>
-
-# Block bad bots and spiders
-
-SetEnvIfNoCase User-Agent "^BlackWidow" bad_bot
-SetEnvIfNoCase User-Agent "^Bot\ mailto:" bad_bot
-SetEnvIfNoCase User-Agent "^ChinaClaw" bad_bot
-SetEnvIfNoCase User-Agent "^Custo" bad_bot
-SetEnvIfNoCase User-Agent "^DISCo" bad_bot
-SetEnvIfNoCase User-Agent "^Download\ Demon" bad_bot
-SetEnvIfNoCase User-Agent "^eCatch" bad_bot
-SetEnvIfNoCase User-Agent "^EirGrabber" bad_bot
-SetEnvIfNoCase User-Agent "^EmailSiphon" bad_bot
-SetEnvIfNoCase User-Agent "^EmailWolf" bad_bot
-SetEnvIfNoCase User-Agent "^Express\ WebPictures" bad_bot
-Deny from env=bad_bot
-
 ';
 
 function edit_htaccess_file() {
