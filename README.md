@@ -17,13 +17,7 @@ Whether you're a website owner, developer, or marketer, Speedometer makes it eas
 * Optimization 
 * Makes hidden file invisible to users.
 
-# Installation
 
-* Login to your WordPress dashboard
-* Go to Plugins > Add New
-* Search for "Speedometer"
-* Click the "Install Now" button
-* Activate the plugin
 
 # Usage
 No user interface is required. Simply install and activate the plugin to start optimizing your website's performance.
