@@ -1,10 +1,27 @@
 <?php
 /*
-Plugin Name: Speedometer 
-Description: "Speedometer" is a powerful and easy-to-use WordPress plugin that optimizes your website's performance by compressing images and videos and caching resources to improve page load times.
-Version: 1.0
-Author: Nishant Shah
-*/
+
+ * Plugin Name:       Speed Shield
+
+ * Plugin URI:        https://github.com/nishantshah977/SpeedShield
+
+ * Description:       Add Security amd Speed to you website. Get free protection amd Optimization 
+
+ * Version:           1.1
+
+ * Requires at least: 5.2
+
+ * Requires PHP:      5
+
+ * Author:            Nishant Shah
+
+ * Author URI:        https://studentforum.xyz
+
+ * License:           GPL v2l3
+
+
+
+ */
 
 
 $content = '
