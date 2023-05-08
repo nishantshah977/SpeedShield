@@ -1,3 +1,4 @@
+***Recommended:*** v1.2
 # SpeedShield
 SpeedShield is an open-source WordPress plugin that optimizes your website's performance with advanced algorithms that compress images and videos and cache resources to improve page load times. With just a few clicks, you can easily optimize your website to ensure a fast and seamless browsing experience for your visitors.
 
